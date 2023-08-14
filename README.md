@@ -1,0 +1,2 @@
+# 58rent_house_spark_hadoop_hive_rec2028
+计算机毕业设计吊打导师spark+hive+nlp租房数据分析可视化大屏 租房推荐系统 58同城租房爬虫 房源推荐系统 房价预测系统 数据仓库 大数据毕业设计
